@@ -1,3 +1,4 @@
+/* Tommy Mitchell 3/5/25 */
 /* Global Backgrounds, Colors, and Widths */
 * {box-sizing: border-box;}
 body{
@@ -75,7 +76,7 @@ main section div:last-child{
 }
 main section div h2 {
     background-color: #008000;
-    border-radius: 10 10 0 0;
+    border-radius: 10px 10px 0 0;
     color: white;
     margin-top: 0;
 }
